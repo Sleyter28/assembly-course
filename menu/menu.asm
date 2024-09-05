@@ -2,7 +2,7 @@ section .data                                   ;Data segment
     userMsg db 'Por favor, ingrese un numero: '
     lenUserMsg equ $-userMsg
     displayMsg db 'El numero que ingreso fue: '
-    lenDisplayMsg equ $-lenDisplayMsg
+    lenDisplayMsg equ $-displayMsg
 
 
 section .bss
