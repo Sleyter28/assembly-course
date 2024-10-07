@@ -1,3 +1,6 @@
  *.o
  *.out
  .idea
+/test/.idea/
+/test/*.out
+/min_max/.idea/
